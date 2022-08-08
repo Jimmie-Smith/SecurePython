@@ -1,4 +1,4 @@
-import optparse  # to accept arguments within linux machine
+import optparse
 
 
 parser = optparse.OptionParser()
